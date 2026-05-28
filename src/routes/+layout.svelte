@@ -1,7 +1,7 @@
 <script lang="ts">
 	import '@fontsource-variable/montserrat/wght.css';
-	import '@fontsource/arvo/700';
-	import '@fontsource/recursive';
+	import '@fontsource/arvo/700.css';
+	import '@fontsource/recursive/400.css';
 
 	import '$lib/style/global.scss';
 
